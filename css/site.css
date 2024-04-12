@@ -1,0 +1,39 @@
+body{
+    background-color: #f5fad2;
+    margin:0;
+}
+
+#header{
+    background-color: #100533;
+    padding-top:13px 26px;
+    color: #f1CAD3;
+}
+
+
+nav{
+    background-color: #4e3c79;
+    color: #F5FAD2;
+    margin:0;
+}
+
+nav ul{
+    margin:0;
+    list-style-type: none;
+     padding: 13px 26px;
+}
+
+nav ul li{ 
+    display: inline;
+    margin:0px 13px;
+   
+}
+
+nav ul li a {
+   color: white;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-transform: uppercase;
+}
+
+#sitetitle{
+    margin: 0;
+}
